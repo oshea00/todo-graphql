@@ -8,14 +8,6 @@ Creates a "todo" web application using containerized vite/react application that
 
 The service is orchestrated using docker compose.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## Installation
 
 ### Build and run service
