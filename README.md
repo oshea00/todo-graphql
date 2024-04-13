@@ -22,23 +22,16 @@ Much of the code was produced using ChatGPT4 and the Copilot extension for VSCod
 > cd ..
 > docker compose up --build -d
 ~~~
+
 UI
 [localhost:3000](http://localhost:3000/)
 Graphql
 [localhost:4000](http://localhost:4000/)
 
-## Usage
-
-Instructions on how to use your project.
+### Cleanup
+`> docker compose down`
 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contributing
-
-Guidelines on how to contribute to your project.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me at [email@example.com](mailto:email@example.com).
