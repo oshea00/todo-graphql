@@ -8,6 +8,10 @@ Creates a "todo" web application using containerized vite/react application that
 
 The service is orchestrated using docker compose.
 
+Much of the code was produced using ChatGPT4 and the Copilot extension for VSCode.
+
+[Chat Session](https://chat.openai.com/share/d7ca5b55-c401-46ac-9cc9-9900e28d781c)
+
 ## Installation
 
 ### Build and run service
